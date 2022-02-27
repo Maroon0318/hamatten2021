@@ -1,0 +1,82 @@
+body {
+
+background-color: #FFEEFF;
+font-family: "ＭＳ Ｐゴシック";
+color: #353D3F;
+
+}
+
+b {
+font-family: "HGP創英角ｺﾞｼｯｸUB";
+}
+
+
+main {
+  display: flex; 
+}
+
+
+.resizeimage img { width: 70%; }
+
+.resizeimage2 img { width: 40%; }
+
+.resizeimage3 img { height: 80px; }
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.container2{
+  display: flex;
+  width: 80%;
+  justify-content: center;
+  background-color: #D3D3D3;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+.box {
+    width: 300px;
+    height: 250px;
+    padding: 0 1em;
+    margin: 20px;
+    background: #f0f7ff;
+    border: solid 4px #E2E8EC;
+}
+
+.box2 {
+    width: 300px;
+    height: 100px;
+    padding: 0 1em;
+    margin: 20px;
+    background: #FFEEFF;
+}
+
+.box3 {
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.box31 {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+
+.box4 {
+    margin-top:130px;
+}
+
+.box5 {
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.box6 {
+    font-size: 20px;
+    margin-left: 40px;
+}
